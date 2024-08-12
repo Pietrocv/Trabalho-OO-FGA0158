@@ -1,29 +1,40 @@
-UnB - Universidade de Brasilia  
-FGA - Faculdade do Gama  
-OO - Orientação por Objetos  
-Prof. André Luiz Peron Martins Lanna  
+# UnB - Universidade de Brasília  
+## FGA - Faculdade do Gama  
+### Orientação a Objetos (OO)  
+**Prof. André Luiz Peron Martins Lanna**
 
+---
 
-### Trabalho-OO-FGA0158
-Repositório para armazenar o código fonte do trabalho final da matéria de Orientação a Objetos.
-Pietro Calegari Visentin  Matricula: 232014754
+## 📚 Projeto: Trabalho Final de Orientação a Objetos
 
+**Autor:** Pietro Calegari Visentin  
+**Matrícula:** 232014754
 
-## Objetivo:  
-O objetivo deste trabalho prático é aplicar os conceitos fundamentais de
-Orientação por Objetos (OO), em especial os conceitos de Herança e Polimorfismo,
-no contexto de um sistema de gestão acadêmico. Utilizando o cenário descrito
-abaixo e o conjunto de classes presentes nesse diretório (como ponto de partida
-para o trabalho), os grupos de quatro alunos deverão implementar um sistema em
-Java que explore ao máximo os conceitos de Orientação por Objetos.
+---
 
-## Cenário de Gestão Acadêmica:
+## 🎯 Objetivo
 
-O sistema é responsável, basicamente, por realizar o cadastro de todos elementos pertencentes ao domínio de uma universidade. Por exemplo alunos, professores, turmas, disciplinas e etc.
+O objetivo deste trabalho é aplicar conceitos fundamentais de **Orientação a Objetos (OO)**, com foco em **Herança** e **Polimorfismo**, no desenvolvimento de um sistema de gestão acadêmico. O sistema será implementado em Java e explorará a fundo os princípios de OO, baseando-se no cenário descrito abaixo.
 
-O sistema é capaz de criar turmas para cada disciplina, cada turma é capaz de associas um professor e matricular diversos alunos. Cada turma possui uma "Lista de Presença" que possui o nome da disciplina, o professor cadastrado para a respectiva turma, o código da turma e sua lista de alunos matriculados.
+---
 
-## Exemplos de Execução:  
-https://youtu.be/b0omUCPswL8
+## 🏫 Cenário de Gestão Acadêmica
 
+O sistema gerencia o cadastro de elementos relacionados à universidade, como alunos, professores, turmas e disciplinas. As principais funcionalidades incluem:
 
+- **Criação de turmas** para cada disciplina.
+- **Associação de professores** às turmas.
+- **Matrícula de alunos** nas turmas.
+- **Geração de uma Lista de Presença** que inclui:
+  - Nome da disciplina
+  - Professor responsável
+  - Código da turma
+  - Lista de alunos matriculados
+
+---
+
+## 🎥 Exemplos de Execução
+
+Confira exemplos de execução do sistema neste [vídeo demonstrativo](https://youtu.be/b0omUCPswL8).
+
+---
