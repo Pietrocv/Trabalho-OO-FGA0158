@@ -35,7 +35,7 @@ O sistema gerencia o cadastro de elementos relacionados à universidade, como al
 
 ## 🎫 UML
 
-<img src="[URL_da_Imagem](https://cdn.discordapp.com/attachments/1231740600689365044/1272652268503830572/UMLATT.png?ex=66bbc149&is=66ba6fc9&hm=b5aae93c87f96783445547b05aefcc7c8026125596383d1636ace7a5c696b55a&)" alt="Texto Alternativo">
+<img src="https://cdn.discordapp.com/attachments/1231740600689365044/1272652268503830572/UMLATT.png?ex=66bbc149&is=66ba6fc9&hm=b5aae93c87f96783445547b05aefcc7c8026125596383d1636ace7a5c696b55a&" alt="Texto Alternativo">
 
 ---
 
