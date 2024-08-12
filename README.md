@@ -6,8 +6,8 @@ Prof. André Luiz Peron Martins Lanna
 
 ### Trabalho-OO-FGA0158
 Repositório para armazenar o código fonte do trabalho final da matéria de Orientação a Objetos.
-Pietro Calegari Visentin 232014754
-Matricula: 232014754
+Pietro Calegari Visentin  Matricula: 232014754
+
 
 ## Objetivo:  
 O objetivo deste trabalho prático é aplicar os conceitos fundamentais de
